@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **self-improvement**
 
-- 💬 Ask me about **React.js, ASP.NET, Js**
+- 💬 Ask me about **React.js, ASP.NET, NEXT.js**
 
 - 📫 How to reach me **atreyanischal@gmail.com**
 
